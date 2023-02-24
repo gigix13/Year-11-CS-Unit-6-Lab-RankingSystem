@@ -1,4 +1,4 @@
-public class User {d
+public class User {
     private int rank;
 
     private int progress;
